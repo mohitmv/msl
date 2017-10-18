@@ -571,3 +571,16 @@ class Encoding:
 				if(0<=st<=255):
 					outp+=chr(st);
 		return outp;
+
+
+
+
+msl = Object(
+	__version__ = "1.0.0"
+);
+
+
+
+
+
+
